@@ -1,4 +1,4 @@
-[🤖 Learning AI](../README.md) / [AI 解释 AI](README.md) / AGI
+[🤖 Learning AI](README.md) / AGI
 
 # AGI
 
@@ -27,6 +27,4 @@ AGI（通用人工智能，Artificial General Intelligence）指的是一种具�
 AGI 是一个理想的目标，代表着未来人工智能发展的一种可能性，它能够执行多种任务，理解复杂的概念，并能够适应新环境，类似人类智慧的体现。尽管目前尚未实现，很多科学家和工程师仍在为实现 AGI 而努力。
 
 ---
-[« LLM](LLM.md)
-
-[» AI Agent](ai-agent.md)
+[» AI Agent](AI-Agent_1.md)

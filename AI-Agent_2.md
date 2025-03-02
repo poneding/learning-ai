@@ -1,6 +1,6 @@
-[🤖 Learning AI](../README.md) / [AI 解释 AI](README.md) / AI Agent
+[🤖 Learning AI](README.md) / AI Agent 2
 
-# AI Agent
+# AI Agent 2
 
 AI Agent（人工智能代理）是指一种独立操作的智能系统，可以感知其环境、进行决策并采取行动来实现特定目标。AI代理可以是软件程序、机器人或任何能够执行任务的智能工具。
 
@@ -34,4 +34,6 @@ AI Agent（人工智能代理）是指一种独立操作的智能系统，可以
 AI代理是智能系统的一个重要概念，它通过感知、决策和行动实现自主操作。在许多领域，AI代理的应用正在改变我们的工作和生活方式，推动着技术的快速发展。
 
 ---
-[« AGI](agi.md)
+[« AI Agent](AI-Agent_1.md)
+
+[» DeepSeek-R1](DeepSeek-R1.md)

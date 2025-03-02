@@ -3,6 +3,6 @@
 # DeepSeek-R1
 
 ---
-[« AI Agent](ai-agent.md)
+[« AI Agent 2](AI-Agent_2.md)
 
-[» 提示工程](prompt.md)
+[» LLM](LLM.md)

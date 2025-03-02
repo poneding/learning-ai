@@ -1,13 +1,17 @@
-# learning-ai
+# Learning AI
 
-## AI 解释 AI
+[AGI](AGI.md)
 
-- [LLM](aieai/LLM.md)
-- [AGI](aieai/agi.md)
-- [AI Agent](aieai/ai-agent.md)
+[AI Agent](AI-Agent_1.md)
 
-[AI Agent](ai-agent.md)
+[AI Agent 2](AI-Agent_2.md)
 
-[DeepSeek-R1](deepseek.md)
+[DeepSeek-R1](DeepSeek-R1.md)
 
-[提示工程](prompt.md)
+[LLM](LLM.md)
+
+[提示工程](Prompt.md)
+
+[概念释义](概念释义.md)
+
+[神经网络](神经网络.md)

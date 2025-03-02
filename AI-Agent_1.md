@@ -134,4 +134,6 @@ AI Agent 作为人工智能领域的核心技术之一，正在深刻地改变�
 - [QuantaLogic](https://github.com/quantalogic/quantalogic)：一个用于构建高级 AI Agent 的 ReAct（Reasoning & Action）框架。
 
 ---
-[» DeepSeek-R1](deepseek.md)
+[« AGI](AGI.md)
+
+[» AI Agent 2](AI-Agent_2.md)

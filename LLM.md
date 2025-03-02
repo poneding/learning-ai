@@ -1,4 +1,4 @@
-[🤖 Learning AI](../README.md) / [AI 解释 AI](README.md) / LLM
+[🤖 Learning AI](README.md) / LLM
 
 # LLM
 
@@ -38,5 +38,12 @@ LLM（大语言模型，Large Language Model）是指一种基于深度学习技
 
 大语言模型是一种强大的工具，能够生成和理解自然语言，广泛应用于各个领域。它们的研发现正在推动人工智能与自然语言处理的前沿，改变了人们与计算机交互的方式。
 
+## 其他
+
+- [大模型的 Token 究竟是什么？](https://www.bilibili.com/video/BV1smXUYSEGi/?spm_id_from=333.1387.homepage.video_card.click&vd_source=8fa9b3e5cec1ba6938b7e48ac8418e1f)
+- [大模型的参数究竟是什么？](https://www.bilibili.com/video/BV1CpAnebEpJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=8fa9b3e5cec1ba6938b7e48ac8418e1f)：大模型的核心：输入 -> [模型(模型参数+拟合方法)] -> 输出
+
 ---
-[» AGI](agi.md)
+[« DeepSeek-R1](DeepSeek-R1.md)
+
+[» 提示工程](Prompt.md)

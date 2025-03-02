@@ -24,4 +24,4 @@ check_mdi:
 mdi_gen: check_mdi
 	@git pull
 	@echo "Generating markdown indices..."
-	@mdi gen -f README.md --home-title "🤖 Learning AI" --sub-index-file README.md -t "learning-ai" -r --override --nav -v --no-header-link
+	@mdi gen -f README.md --home-title "🤖 Learning AI" --sub-index-file README.md -t "Learning AI" -r --override --nav -v --no-header-link
