@@ -1,5 +1,7 @@
 # Learning AI
 
+[Embedding](%20Embedding.md)
+
 [AGI](AGI.md)
 
 [AI Agent](AI-Agent_1.md)
@@ -11,6 +13,8 @@
 [LLM](LLM.md)
 
 [提示工程](Prompt.md)
+
+[RAG](RAG.md)
 
 [概念释义](概念释义.md)
 
